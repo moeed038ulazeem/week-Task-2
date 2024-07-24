@@ -9,16 +9,17 @@
   /*body{
     background-image: url(./images/background-img.jpg);
   }*/
-  body{
-    background-color: #fff;
-  }
+  
 figure{
     display: flex;
     justify-content: center;
-margin-top: -20px;
+margin-top: -50px;
+background-color: #8f8e8e;
 }
 figure img{
-    width: 200px;
+    width: 250px;
+    margin-top: 50px;
+    border-radius: 50px;
 
 }
 nav{
@@ -113,6 +114,7 @@ section p{
   position: relative;
   top: -120px;
   border: none;
+  
 }
 
 /*Books collection */
